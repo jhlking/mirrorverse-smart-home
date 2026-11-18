@@ -51,6 +51,10 @@
 - 🎨 **一键换肤** —— 男生/女生双主题，零重载切换整套配色与文案
 - 📦 **零第三方依赖** —— 前端无框架无构建，后端只用 Python 标准库，**整条链路不装一个 pip 包**
 
+**English Overview**
+
+JINGJIE is a high-fidelity software prototype for a "smart full-length mirror". A single full-body camera capture simultaneously drives AI posture-risk screening and facial aesthetic analysis, producing personalized recommendations for posture correction, styling and colors, makeup and grooming, and diet, exercise and sleep. It is a runnable full-stack application rather than a static mockup: the frontend uses vanilla HTML/CSS/JS with no framework and no build step, while the backend is a REST API written with the Python standard library only, persisting history and profiles in SQLite. Notable traits include zero third-party dependencies, real-time webcam capture, on-device pixel-level analysis, and a seeded variation engine for reproducible yet varied reports.
+
 ---
 
 ## 🚀 快速开始
